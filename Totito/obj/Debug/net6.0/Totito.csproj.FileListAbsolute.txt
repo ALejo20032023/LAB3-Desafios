@@ -1,0 +1,5 @@
+C:\Users\jmora\OneDrive\Escritorio\Desafios 3\Totito\obj\Debug\net6.0\Totito.csproj.AssemblyReference.cache
+C:\Users\jmora\OneDrive\Escritorio\Desafios 3\Totito\obj\Debug\net6.0\Totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmora\OneDrive\Escritorio\Desafios 3\Totito\obj\Debug\net6.0\Totito.AssemblyInfoInputs.cache
+C:\Users\jmora\OneDrive\Escritorio\Desafios 3\Totito\obj\Debug\net6.0\Totito.AssemblyInfo.cs
+C:\Users\jmora\OneDrive\Escritorio\Desafios 3\Totito\obj\Debug\net6.0\Totito.csproj.CoreCompileInputs.cache
